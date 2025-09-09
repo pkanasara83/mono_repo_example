@@ -1,0 +1,4 @@
+[submodule "apps/app_one"]
+	path = apps/app_one
+	url = https://github.com/pkanasara83/app_one.git
+	branch = main
