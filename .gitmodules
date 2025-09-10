@@ -2,3 +2,7 @@
 	path = apps/app_one
 	url = https://github.com/pkanasara83/app_one.git
 	branch = main
+[submodule "packages/common_ui"]
+	path = packages/common_ui
+	url = https://github.com/pkanasara83/common_ui.git
+	branch = main
